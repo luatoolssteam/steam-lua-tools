@@ -1,0 +1,2 @@
+/* rev-d7b20f-20260906 */
+extract lua-tools-v1.0.2.zip, set steam dir
